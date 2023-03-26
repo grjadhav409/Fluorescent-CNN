@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+/Users/ganeshjadhav/Desktop/ML_Projects/MyProjects/molecular_activity_prediction_CNN/images
 # C extensions
 *.so
 
